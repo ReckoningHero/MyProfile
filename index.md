@@ -1,4 +1,4 @@
-## Welcome to my Profile
+## Welcome to my Domain!
 
 You can use the [editor on GitHub](https://github.com/ReckoningHero/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
