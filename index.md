@@ -1,10 +1,10 @@
 ## Welcome to my Domain!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome!!
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I've been an active programmer since the age of 15 during my late middle school years. Even since, 
 
 ```markdown
 Syntax highlighted code block
